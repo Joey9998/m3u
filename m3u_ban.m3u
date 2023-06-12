@@ -241,6 +241,8 @@ http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
 #EXTINF:-1 group-title="1娛樂綜合23V0608版",ELTA愛爾達影劇
 http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
+#EXTINF:-1 group-title="2電影頻道23V0608版",玩命關頭X
+https://m3u.haiwaikan.com/xm3u8/378b8593530fd3748699d45fbbf5599d15942959d641644291ee7681b59e54f69921f11e97d0da21.m3u8
 #EXTINF:-1 group-title="2電影頻道23V0608版",龍祥時代
 http://107.151.203.111:2209/135/hk.php?id=lxsdt
 #EXTINF:-1 group-title="2電影頻道23V0608版",龍祥時代
